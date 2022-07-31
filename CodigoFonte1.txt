@@ -1,0 +1,28 @@
+PROGRAMA MAIN
+    BEGIN
+        FLOAT : X, Y;
+        X := 5/1;
+        IF (X > 4) THEN
+            BEGIN
+                Y := X+2;
+                REPEAT 
+                    BEGIN
+                        INT : ZAR;
+                        ZAR := ZAR + 1;
+                    END
+                WHILE ( X <= Y)
+                WHILE ( X > Y) DO
+                    BEGIN
+                        X := Y;
+                    END
+            END
+        ELSE
+            BEGIN
+                X := 2-2;
+            END
+        WHILE ( X ~= Y) DO
+            BEGIN
+                CHAR : B, b;
+                
+            END
+    END
